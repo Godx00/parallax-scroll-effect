@@ -1,6 +1,6 @@
 const frames = 50;
 const img = new Image();
-const source = index => `/frames/ezgif-frame-${index.toString().padStart(3, '0')}.png`;
+const source = index => `/parallax-scroll-effect/frames/ezgif-frame-${index.toString().padStart(3, '0')}.png``;
 const myElement = document.getElementById('canvas1');
 const context = myElement.getContext('2d');
 myElement.height = 1080;
