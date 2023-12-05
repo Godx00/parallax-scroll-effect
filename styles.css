@@ -1,0 +1,15 @@
+html {
+  background: #46bcd9;
+}
+
+body {
+  height: 400vh;
+}
+
+#canvas1 {
+  position: fixed;
+  height: 100vh;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}/*# sourceMappingURL=styles.css.map */
